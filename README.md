@@ -1,2 +1,2 @@
 # Basic-calculator-
-This basic calculator can compute to numbers.
+This basic calculator can compute two numbers.
